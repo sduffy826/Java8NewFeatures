@@ -6,8 +6,7 @@ import java.time.Month;
 import java.time.temporal.ChronoUnit;
 import java.time.temporal.TemporalAdjusters;
 
-public class DemoFeatures {
-  
+public class DemoFeatures {  
   
   public static void main(String[] args) {
     DemoFeatures demo = new DemoFeatures();

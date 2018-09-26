@@ -1,0 +1,5 @@
+This is the first line
+
+And the third
+
+Fifth and final line, it has length of more than 40 chars
